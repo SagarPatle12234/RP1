@@ -1,4 +1,4 @@
-**Hello Everyone in this repository we are going to delve deeper into the concept of cosine similarity and how it can be used to detect patterns in data or compare the similarity between
+Hello Everyone in this repository we are going to delve deeper into the concept of cosine similarity and how it can be used to detect patterns in data or compare the similarity between
 two datasets. We will also discuss about drawbacks of using cosine similarity and benefits too. Besides,we would also discuss how we can use hybrid techniques of ml and cosine similarity 
-to solve computer vision problems and much more which are in some way more efficient and powerful than standalone techniques.**
+to solve computer vision problems and much more which are in some way more efficient and powerful than standalone techniques.
 
